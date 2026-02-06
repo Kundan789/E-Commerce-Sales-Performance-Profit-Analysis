@@ -14,4 +14,4 @@ using SQL Server and Tableau.
 - Tableau (KPIs, Trends, Filters)
 
 ### Dashboard Preview
-![Dashboard](dashboard_final.png](https://public.tableau.com/views/E-CommerceSalesPerformanceProfitAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Link :- https://public.tableau.com/views/E-CommerceSalesPerformanceProfitAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
